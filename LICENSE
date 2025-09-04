@@ -1,0 +1,61 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+
+Copyright (c) 2025 Aldo Alberto Baldeon Fabian - Codares
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 
+International License. To view a copy of this license, visit:
+http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to 
+Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, 
+  and indicate if changes were made. You may do so in any reasonable manner, 
+  but not in any way that suggests the licensor endorses you or your use.
+- NonCommercial — You may not use the material for commercial purposes.
+- ShareAlike — If you remix, transform, or build upon the material, you must 
+  distribute your contributions under the same license as the original.
+
+No additional restrictions — You may not apply legal terms or technological 
+measures that legally restrict others from doing anything the license permits.
+
+COMMERCIAL USE STRICTLY PROHIBITED
+This license explicitly prohibits any commercial use, including but not limited to:
+- Selling the software or derivative works
+- Using the software in commercial products or services
+- Monetizing applications or systems that incorporate this code
+- Commercial distribution or licensing to third parties
+
+For commercial licensing inquiries, please contact: Codares Development Team
+
+================================================================================
+
+TAVOLO SMART WEIGHT DETECTION SYSTEM v1.0.0
+
+Developer: Aldo Alberto Baldeon Fabian
+Company: Codares
+Project: Tavolo IoT Weight Detection System
+Date: September 2025
+
+This project implements an advanced IoT embedded system with:
+- Event-Driven Architecture
+- Finite State Machine
+- Reactive Programming
+- SOLID Design Principles
+- Edge API Communication via MQTT
+- Real-time Weight Monitoring
+
+Hardware Requirements:
+- ESP32 DevKit C v4
+- HX711 Weight Sensor (50kg capacity)
+- LCD I2C 20x4 Display
+- LED Status Indicator
+- Load Cell/Strain Gauge
+
+For technical support or collaboration opportunities:
+Contact: Codares Development Team
+
+================================================================================

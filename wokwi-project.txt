@@ -1,0 +1,23 @@
+Downloaded from https://wokwi.com/projects/441116631742611457
+
+Simulate this project on https://wokwi.com
+Wokwi project URL: https://wokwi.com/projects/441116631742611457
+
+================================================================
+TAVOLO SMART WEIGHT DETECTION SYSTEM v1.0.0
+================================================================
+
+Developer: Aldo Alberto Baldeon Fabian
+Company: Codares
+Project: Tavolo IoT Weight Detection System
+Date: September 2025
+
+Advanced IoT system featuring:
+✓ Event-Driven Architecture
+✓ Finite State Machine  
+✓ Reactive Programming
+✓ SOLID Design Principles
+✓ MQTT Edge Communication
+✓ Real-time Weight Monitoring
+
+© 2025 Codares - All Rights Reserved
